@@ -1,0 +1,11 @@
+
+
+.gold{
+    color:rgb(218,165,32);
+    margin-left: 50px;
+}
+.gold:hover{
+    transition: 1s;
+    transform: scale(1.09);
+    cursor: pointer;
+}
